@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27823189-b4cf-4d96-b613-11cb60821353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.idea/flooding-silhouettes-challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/files/input_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/src/App.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/src/lib/File.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/src/lib/Silhouette.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/test/File.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/test/Silhoutte.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/test/constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/yarn.lock" afterDir="false" />
+    <list default="true" id="27823189-b4cf-4d96-b613-11cb60821353" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../flooding-silhouettes-challenge/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +47,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615744761635</updated>
-      <workItem from="1615744763100" duration="14721000" />
+      <workItem from="1615744763100" duration="14910000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1615765729515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615765729515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1615765854883">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1615765854883" />
     <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1615745322024">
       <screen x="0" y="25" width="1440" height="875" />
     </state>

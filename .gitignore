@@ -47,6 +47,9 @@ typings/
 # Build directory
 dist/
 
+# IDE
+.idea/
+
 # TypeScript cache
 *.tsbuildinfo
 
