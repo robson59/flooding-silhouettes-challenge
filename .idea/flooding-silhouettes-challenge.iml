@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../flooding-silhouettes-challenge">
+      <excludeFolder url="file://$MODULE_DIR$/../flooding-silhouettes-challenge/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../flooding-silhouettes-challenge/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../flooding-silhouettes-challenge/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
